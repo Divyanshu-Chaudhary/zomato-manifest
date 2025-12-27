@@ -16,4 +16,4 @@ spec:
       - name: zomato
         image: divyanshu067/zomato-clone:8
         ports:
-        - containerPort: 5000
+        - containerPort: 8000
